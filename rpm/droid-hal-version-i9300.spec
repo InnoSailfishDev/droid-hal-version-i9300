@@ -1,5 +1,5 @@
 # rpm_device is the name of the ported device
-%define rpm_device i9300
+%define rpm_device i9305
 # rpm_vendor is used in the rpm space
 %define rpm_vendor samsung
 # Manufacturer and device name to be shown in UI
